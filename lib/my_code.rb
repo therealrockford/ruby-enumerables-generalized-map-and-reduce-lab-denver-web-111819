@@ -1,2 +1,4 @@
-def my_own_map([])
+def map
+  
+
 end
