@@ -18,4 +18,5 @@ def reduce(array, sv=nil)
     sum = sv 
     i = 0 
   else 
-    sum 
+    sum = array[0]
+    i = 1 
