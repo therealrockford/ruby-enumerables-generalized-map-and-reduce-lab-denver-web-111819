@@ -28,9 +28,6 @@ def reduce(array, sv=nil)
   sum
 end 
 
-reduce(source_array) do 
-  |meme, n| meme + n 
-end 
   
   
   
