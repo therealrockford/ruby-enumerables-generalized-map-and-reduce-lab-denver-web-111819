@@ -8,7 +8,7 @@ def map(array)
   new_array 
 end
 
-# map([1, 2, 3, -9]) do |n| n * -1 
-# end 
+map([1, 2, 3, -9]) do |n| n * -1 
+end 
 
 # map([1, 2, 3, -9]) { |n| n * -1}
